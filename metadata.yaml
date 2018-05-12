@@ -25,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25491
 description: Appears to be an adaptation or translation of Gunter's "The first of
   the English".
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22686#Een-strijd-om-de-schatten-van-Alva--of-De-watergeuzen-in-1572
 gutenberg_issued: '2007-09-20'
 gutenberg_type: Text
 identifiers:
