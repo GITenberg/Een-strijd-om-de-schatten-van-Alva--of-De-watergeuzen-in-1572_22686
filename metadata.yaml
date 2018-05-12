@@ -1,0 +1,41 @@
+_repo: Een-strijd-om-de-schatten-van-Alva--of-De-watergeuzen-in-1572_22686
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Koppenol, Cornelis
+    birthdate: 1865
+    deathdate: 1946
+    gutenberg_agent_id: '25490'
+    url: http://www.gutenberg.org/2009/agents/25490
+covers:
+- cover_type: archival
+  image_path: 22686-h/images/cover.jpg
+creator:
+  authors:
+  - agent_name: Gunter, Archibald Clavering
+    alias: Warneford, Lieutenant
+    birthdate: 1847
+    deathdate: 1907
+    gutenberg_agent_id: '36282'
+    url: http://www.gutenberg.org/2009/agents/36282
+    wikipedia: https://en.wikipedia.org/wiki/Archibald_Clavering_Gunter
+  - agent_name: Bertrand, H.
+    alias: Zaalberg, Louise
+    gutenberg_agent_id: '25491'
+    url: http://www.gutenberg.org/2009/agents/25491
+description: Appears to be an adaptation or translation of Gunter's "The first of
+  the English".
+gutenberg_issued: '2007-09-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22686'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Historical fiction'
+- !lcsh 'Netherlands -- History -- Eighty Years'' War, 1568-1648 -- Juvenile fiction'
+title: 'Een strijd om de schatten van Alva: of De watergeuzen in 1572'
+url: http://www.gutenberg.org/ebooks/22686
